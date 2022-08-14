@@ -42,10 +42,14 @@ index 0000000..0e291ab
 +- Lily :ioa:
 diff --git a/README.md b/README.md
 new file mode 100644
-index 0000000..620bcc5
+index 0000000..8f05e89
 --- /dev/null
 +++ b/README.md
-@@ -0,0 +1,38 @@
+@@ -0,0 +1,42 @@
++#### Hey everyone, thank you for your great interest in Overimagined, but Emin has expressed his concerns about the future of Reimagined and our edit, so we have put our development on indefinite hold until we can find a solution to the underlying problem that both parties are comfortable with
++
++
++
 +<img src="https://user-images.githubusercontent.com/46494907/182962685-cb624c8b-782a-4d51-b9e5-090267ae6624.png" alt="Overimagined_logo" width="100" height="auto" />
 +  <h1>Overimagined Shaders</h1>
 +  A Complementary Reimagined edit 
@@ -570,7 +574,7 @@ index a5f85ea..abdb5f1 100644
      vec3 nightMiddleSkyColor = pow(nightUpSkyColor, vec3(0.75)) * 1.3;
      vec3 nightDownSkyColor   = nightUpSkyColor * 1.3;
 diff --git a/shaders/lib/common.glsl b/shaders/lib/common.glsl
-index 0e06c8c..ddc4ab6 100644
+index 0e06c8c..5f5a9e4 100644
 --- a/shaders/lib/common.glsl
 +++ b/shaders/lib/common.glsl
 @@ -4,14 +4,14 @@
@@ -734,7 +738,7 @@ index 0e06c8c..ddc4ab6 100644
 +    //#define RANDOM_BLOCKLIGHT
 +
 +    #define NORMAL_RES 128.0 //[80.0 96.0 112.0 128.0 144.0 160.0 176.0 192.0 208.0 224.0 240.0 256.0]
-+    #define NORMAL_THRESHOLD -0.05 //[-0.1 -0.075 -0.05 -0.025 0.00 0.025]
++    #define NORMAL_THRESHOLD -0.05 //[-0.05 -0.0375 -0.025 -0.0125 0.00 0.0125 0.025 0.0375 0.05]
 +
  //Internal Settings//
  
