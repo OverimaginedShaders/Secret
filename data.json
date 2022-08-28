@@ -1,21 +1,13 @@
 {
-  "installerVersion": "1.0-beta6",
+  "installerVersion": "1.0-beta7",
   "shaderpackName": "Complementary Reimagined",
   "shaderpackFileName": "ComplementaryReimagined_",
-  "shaderpackVersions": [
-    {
-      "version": "r1.2.1",
-      "md5": "db6a77066520ef9c435ff094e7a5e16a"
-    },
-    {
-      "version": "r1.2.2",
-      "md5": "16ab534775cf906baa5539cfc3bcdac5"
-    }
-  ],
-  "downloadUrl": "https://www.curseforge.com/minecraft/customization/complementary-reimagined/files",
+  "shaderpackVersion": "r1.3_dev2",
+  "shaderpackMD5": "a6594c68affe8253c3a3331780bda09d",
+  "shaderpackURL": "https://discord.com/invite/A6faFYt",
   "editedShaderpackName": "Overimagined Shaders",
   "editedShaderpackFileName": "OverimaginedShaders_",
   "editedShaderpackVersion": "-1.1_Beta2",
-  "editedShaderpackAuthors": "SpacEagle17 & isuewo",
-  "repoUrl": "https://raw.githubusercontent.com/isuewo/Secret/main/"
+  "editedShaderpackAuthor": "SpacEagle17 & isuewo",
+  "repoURL": "https://raw.githubusercontent.com/OverimaginedShaders/Secret/main/"
 }
